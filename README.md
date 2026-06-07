@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Sandbox showing complex patterns generated with pure CSS.
+  name: css-doodle-playground version: 1.0 type: Repository author: VarshuAi description: >   Sandbox showing complex patterns generated with pure CSS. primary_tech: CSS
 primary_tech: CSS
 ```
 
